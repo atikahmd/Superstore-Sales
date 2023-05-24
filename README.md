@@ -1,6 +1,4 @@
-<zero-md>
-  <!-- Write your markdown inside a `<script type="text/markdown">` tag -->
-  <script type="text/markdown">
-    # **This** is my [markdown](https://example.com)
-  </script>
-</zero-md>
+
+# Superstore Data Analysis
+
+A brief description of what this project does and who it's for
