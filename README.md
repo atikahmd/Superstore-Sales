@@ -1,6 +1,6 @@
 ### Superstore Sales
 
-<a href="https://www.pexels.com/photo/white-plastic-chairs-and-tables-in-white-room-3778619/">![alt text](/visuals/header_superstore.jpg "Photo by Polina Zimmerman")</a>
+<a href="https://www.pexels.com/photo/white-plastic-chairs-and-tables-in-white-room-3778619/">![alt text](https://github.com/atikahmd/Superstore-Sales/blob/main/visuals/header_superstore.jpg "Photo by Polina Zimmerman")</a>
 
 
 This analysis looks into the company's sales performance for products ranging from office supplies to furnitures and communication devices. These products are categorized as follows:
