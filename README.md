@@ -2,4 +2,7 @@
  
 ![alt text](https://github.com/atikahmd/Superstore-Sales/blob/main/visuals/header_superstore.jpg "Superstore")
 
-A brief description of what this project does and who it's for
+This analysis looks into the company's sales and orders data. Product offerings is as follows:
+⋅⋅* 17 product groups
+⋅⋅* 60 product lines
+⋅⋅* 1027 products
