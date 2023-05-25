@@ -1,4 +1,4 @@
-## Superstore Data Analysis
+### Superstore Data Analysis
  
 ![alt text](https://github.com/atikahmd/Superstore-Sales/blob/main/visuals/header_superstore.jpg "Superstore")
 
