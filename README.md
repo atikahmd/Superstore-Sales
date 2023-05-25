@@ -1,6 +1,6 @@
 ### Superstore Sales
 
-<a href="https://www.pexels.com/photo/white-plastic-chairs-and-tables-in-white-room-3778619/">![alt text](https://github.com/atikahmd/Superstore-Sales/blob/main/visuals/header_superstore.jpg "Photo by Polina Zimmerman")</a>
+<a href="https://www.pexels.com/photo/white-plastic-chairs-and-tables-in-white-room-3778619/">![alt text](/visuals/header_superstore.jpg "Photo by Polina Zimmerman")</a>
 
 
 This analysis looks into the company's sales performance for products ranging from office supplies to furnitures and communication devices. These products are categorized as follows:
@@ -15,7 +15,7 @@ The data captured is dated between 2008 and 2011 and here's a quick overview of 
 3. Market Segment
 4. Order Details
 
-#### Analysis
+### Analysis
 
 In 2008, gross profit was $ 3,079,740, which was the highest in the four-year period. This number was contributed by sales across x number of products.
 
