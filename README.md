@@ -9,8 +9,9 @@ The data captured is dated between 2008 and 2011 and it includes various informa
 
 ### Analysis
 
-In 2008, gross profit was $ 3,079,740, which was the highest in the four-year period. This number was contributed by sales across x number of products.
+In 2008, gross profit was $ 3,079,740, which was the highest in the four-year period. This number was contributed by sales across x number of product groups.
 
 ![Bar Chart](https://github.com/atikahmd/Superstore-Sales/blob/main/visuals/sales_profit.jpg?raw=true "Total Sales vs Gross Profit")
 
-However, in 2009, gross profit had a drastic decline by 36.28% at $ 1,962,275.
+However, in 2009, gross profit had a drastic decline by 36.28% at $ 1,962,275. Sales were made across x number of product groups. This is similar to the previous year where 'x product' had the highest sale at x.
+
