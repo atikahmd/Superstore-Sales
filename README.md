@@ -13,6 +13,8 @@ In 2008, gross profit was $3,079,740, which was the highest in the four-year per
 
 ![Bar Chart](https://github.com/atikahmd/Superstore-Sales/blob/main/visuals/01%20sales_profit.jpg?raw=true "Total Sales vs Gross Profit")
 
-However, in 2009, there was a 36.28% decline in gross profit at $1,962,275 and total sales at $7,625,996. The two subsequent years had an upward trend with 2011 recorded a 12.35% increase.  
+However, in 2009, there was a 36.28% decline in gross profit at $1,962,275 and total sales at $7,625,996. The two subsequent years had an upward trend with 2011 recorded a 12.35% increase.
+
+It is important to investigate the steep decline in sales and profit in 2009 to eliminate risks of the business not breaking even or becoming unprofitable. From this point onwards, this analysis will focus on 2008 and 2009 data to identify potential issues and suggest improvements.
 
 The top 3 profit contributors are Telephones and Communication ($1,587,887), Copiers And Fax ($383,951) and Office Machines ($374,614).
